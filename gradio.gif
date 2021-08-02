@@ -1,0 +1,112 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Discover &amp; share this  GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif">
+    <meta property="og:title" content="Gradient Gif By Giphyworldgif - Find &amp; Share on GIPHY">
+    <meta property="og:description" content="Discover &amp; share this  GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="480">
+    <meta property="og:image:height" content="480">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4">
+    <meta property="og:video:url" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="480">
+    <meta property="og:video:height" content="480">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Gradient Gif By Giphyworldgif - Find &amp; Share on GIPHY">
+    <meta name="twitter:creator" content="@giphy">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="Discover &amp; share this  GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif">
+    <meta name="twitter:image" content="https://i.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/5vidmSHUsyoybSYNN0/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="435">
+    
+
+    
+    <meta name="rating" content="general">
+    <meta name="image:rating" content="g">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="Discover &amp; share this  GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs."/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="gradient, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif" title="Gradient Gif By Giphyworldgif - Find &amp; Share on GIPHY oEmbed Lookup" />
+    
+    <title>Gradient Gif By Giphyworldgif - Find &amp; Share on GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+        <img src="https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_s.gif" alt=""
+            style="position:absolute;left:50%;top:50%;width:480px;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);" />
+        
+    </article>
+
+    <!--DIDOMI-->
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+        var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("8878f527-7872-49a5-abd4-f6b2e56cb64a")})();</script>          <!-- END DIDOMI -->
+
+    <!-- Google Analytics -->
+    <script type="didomi/javascript" data-vendor="c:googleana-jHcphUGX">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    ga('require', 'GTM-WXRB58X');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <script src="/static/dist/runtime.9ddb4cd8.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.00351220.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"type": "gif", "index_id": 61226697, "slug": "giphyworldgifs-gradient-5vidmSHUsyoybSYNN0", "url": "https://giphy.com/gifs/giphyworldgifs-gradient-5vidmSHUsyoybSYNN0", "short_url": "https://gph.is/2FfXfDw", "username": "giphyworldgifs", "rating": "g", "source_image_url": "/tmp/5vidmSHUsyoybSYNN0.gif", "source_post_url": "", "source_content_url": "", "source_tld": "", "source_domain": "", "source_caption": "", "source_body": "", "has_attribution": false, "is_hidden": false, "is_removed": false, "is_community": false, "is_anonymous": false, "is_featured": false, "is_realtime": false, "is_indexable": false, "is_sticker": false, "is_preserve_size": false, "import_datetime": "2018-04-25T15:02:02+00:00", "create_datetime": "2018-04-25T15:02:30+00:00", "update_datetime": "2019-09-20T22:36:23+00:00", "trending_datetime": null, "featured_tags": [], "user_tags": [], "renditions": {"original_mp4": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4", "mp4_size": 80212, "width": 480}, "fixed_height_small": {"height": 100, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.mp4", "mp4_size": 12974, "size": 91751, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.webp", "webp_size": 30384, "width": 100}, "fixed_height": {"height": 200, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.mp4", "mp4_size": 25879, "size": 194901, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.webp", "webp_size": 50644, "width": 200}, "fixed_height_small_still": {"height": 100, "size": 2401, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100_s.gif", "width": 100}, "preview_gif": {"height": 85, "size": 47154, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.gif", "width": 85}, "fixed_height_downsampled": {"height": 200, "size": 20874, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_d.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_d.webp", "webp_size": 5546, "width": 200}, "fixed_width": {"height": 200, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.mp4", "mp4_size": 25879, "size": 194901, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.webp", "webp_size": 50644, "width": 200}, "original": {"frames": 60, "hash": "23ee3c4f044f766aa69dc5368ee8455a", "height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4", "mp4_size": 80212, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.webp", "webp_size": 147038, "width": 480}, "source": {"height": 1000, "size": 11359453, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/source.gif", "width": 1000}, "preview_webp": {"height": 480, "size": 25758, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.webp", "width": 480}, "fixed_width_still": {"height": 200, "size": 3769, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_s.gif", "width": 200}, "downsized_large": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}, "fixed_width_small": {"height": 100, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.mp4", "mp4_size": 12974, "size": 91751, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.webp", "webp_size": 30384, "width": 100}, "preview": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.mp4", "mp4_size": 27325, "width": 480}, "looping": {"mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-loop.mp4", "mp4_size": 295833}, "hd": {"height": 1000, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-hd.mp4", "mp4_size": 420286, "width": 1000}, "fixed_width_small_still": {"height": 100, "size": 2401, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w_s.gif", "width": 100}, "fixed_height_still": {"height": 200, "size": 3769, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_s.gif", "width": 200}, "downsized_still": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif", "width": 480}, "original_still": {"height": 480, "size": 49064, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif", "width": 480}, "downsized_small": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-downsized-small.mp4", "mp4_size": 79669, "width": 480}, "fixed_width_downsampled": {"height": 200, "size": 20874, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_d.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_d.webp", "webp_size": 5546, "width": 200}, "downsized_medium": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}, "downsized": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}}, "title": "Gradient Gif By Giphyworldgif", "cta": {"link": null, "text": null}, "id": "5vidmSHUsyoybSYNN0", "embed_url": "https://giphy.com/embed/5vidmSHUsyoybSYNN0", "bitly_url": "https://gph.is/2FfXfDw", "images": {"original_mp4": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4", "mp4_size": 80212, "width": 480}, "fixed_height_small": {"height": 100, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.mp4", "mp4_size": 12974, "size": 91751, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100.webp", "webp_size": 30384, "width": 100}, "fixed_height": {"height": 200, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.mp4", "mp4_size": 25879, "size": 194901, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200.webp", "webp_size": 50644, "width": 200}, "fixed_height_small_still": {"height": 100, "size": 2401, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100_s.gif", "width": 100}, "preview_gif": {"height": 85, "size": 47154, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.gif", "width": 85}, "fixed_height_downsampled": {"height": 200, "size": 20874, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_d.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_d.webp", "webp_size": 5546, "width": 200}, "fixed_width": {"height": 200, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.mp4", "mp4_size": 25879, "size": 194901, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w.webp", "webp_size": 50644, "width": 200}, "original": {"frames": 60, "hash": "23ee3c4f044f766aa69dc5368ee8455a", "height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.mp4", "mp4_size": 80212, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.webp", "webp_size": 147038, "width": 480}, "source": {"height": 1000, "size": 11359453, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/source.gif", "width": 1000}, "preview_webp": {"height": 480, "size": 25758, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.webp", "width": 480}, "fixed_width_still": {"height": 200, "size": 3769, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_s.gif", "width": 200}, "downsized_large": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}, "fixed_width_small": {"height": 100, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.mp4", "mp4_size": 12974, "size": 91751, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w.webp", "webp_size": 30384, "width": 100}, "preview": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-preview.mp4", "mp4_size": 27325, "width": 480}, "looping": {"mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-loop.mp4", "mp4_size": 295833}, "hd": {"height": 1000, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-hd.mp4", "mp4_size": 420286, "width": 1000}, "fixed_width_small_still": {"height": 100, "size": 2401, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/100w_s.gif", "width": 100}, "fixed_height_still": {"height": 200, "size": 3769, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200_s.gif", "width": 200}, "downsized_still": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif", "width": 480}, "original_still": {"height": 480, "size": 49064, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy_s.gif", "width": 480}, "downsized_small": {"height": 480, "mp4": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy-downsized-small.mp4", "mp4_size": 79669, "width": 480}, "fixed_width_downsampled": {"height": 200, "size": 20874, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_d.gif", "webp": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/200w_d.webp", "webp_size": 5546, "width": 200}, "downsized_medium": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}, "downsized": {"height": 480, "size": 804873, "url": "https://media2.giphy.com/media/5vidmSHUsyoybSYNN0/giphy.gif", "width": 480}}, "relative_url": "/gifs/giphyworldgifs-gradient-5vidmSHUsyoybSYNN0", "is_trending": false, "is_favorite": false, "tags": ["gradient"], "user": {"id": 6645091, "profile_url": "https://giphy.com/giphyworldgifs", "profile_path": "/giphyworldgifs", "display_name": "", "username": "giphyworldgifs", "name": "giphyworldgifs", "avatar_url": "https://media.giphy.com/avatars/default4.gif", "banner_url": null, "is_public": true, "is_verified": true, "is_freelance": false, "is_community": false, "is_upgraded": true, "attribution_display_name": "giphyworldgifs", "suppress_chrome": false, "website_url": null, "website_display_url": null, "description": "", "facebook_url": null, "twitter": "", "twitter_url": null, "instagram_url": null, "authenticated_instagram_url": null, "tumblr_url": null, "tiktok_url": null, "youtube_url": null, "disable_freelance_popup": false}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: 'giphy.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/'
+            });
+        }
+    </script>
+  </body>
+</html>
